@@ -16,7 +16,7 @@
 		</header>
 		<main>
 			<div class="nav">
-				<h1>Меню</h1>
+				<h1>Меню</h2>
 				<ul>
 					<li class="active"><a href="index.html">Главная</a></li>
 					<li><a href="form.html">form</a></li>

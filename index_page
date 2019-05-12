@@ -43,7 +43,7 @@
 						<a href="lesson2.html"><img src="img/st1.png" alt="st1"></a>
 						<a href="lesson2.html"><img src="img/st1.png" alt="st1"></a>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae possimus quis nisi porro omnis, tenetur quibusdam perferendis voluptatem? Doloribus, harum eaque sunt numquam similique ipsum alias officia molestias, nisi consectetur adipisci, eligendi eveniet sequi, vel aliquam. Error, tenetur labore quae a fuga dolorem quam voluptate, enim voluptas, dolores accusantium perferendis!
+							Lorem ipsum <a href="http://google.com">dolor</a> sit amet, consectetur adipisicing elit. Molestiae possimus quis nisi porro omnis, tenetur quibusdam perferendis voluptatem? Doloribus, harum eaque sunt numquam similique ipsum alias officia molestias, nisi consectetur adipisci, eligendi eveniet sequi, vel aliquam. Error, tenetur labore quae a fuga dolorem quam voluptate, enim voluptas, dolores accusantium perferendis!
 						</p>
 					</div>
 			</div>
